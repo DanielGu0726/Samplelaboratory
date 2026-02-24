@@ -68,8 +68,8 @@
       'prod.zirconia.desc': '자연치아와 유사한 심미성과 뛰어난 강도를 자랑하는 지르코니아 크라운',
 
       'prod.ibs.tag': '임플란트',
-      'prod.ibs.title': 'IBS 크라운',
-      'prod.ibs.desc': '임플란트 식립을 위한 정밀한 IBS 크라운',
+      'prod.ibs.title': '임플란트 크라운',
+      'prod.ibs.desc': '임플란트 식립을 위한 정밀한 임플란트 크라운',
 
       'prod.bridge.tag': '브릿지',
       'prod.bridge.title': '지르코니아 브릿지',
@@ -211,8 +211,8 @@
       'prod.zirconia.desc': 'Zirconia crowns with natural tooth-like aesthetics and excellent strength',
 
       'prod.ibs.tag': 'Implant',
-      'prod.ibs.title': 'IBS Crown',
-      'prod.ibs.desc': 'Precision IBS crowns for implant placement',
+      'prod.ibs.title': 'Implant Crown',
+      'prod.ibs.desc': 'Precision implant crowns for implant placement',
 
       'prod.bridge.tag': 'Bridge',
       'prod.bridge.title': 'Zirconia Bridge',
