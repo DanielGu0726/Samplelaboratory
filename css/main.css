@@ -704,6 +704,7 @@ ul, ol {
   align-items: center;
   justify-content: space-between;
   transition: all var(--transition);
+  opacity: 1 !important;
 }
 
 .faq-question:hover {
@@ -733,6 +734,7 @@ ul, ol {
   padding: 0 24px 20px 24px;
   color: var(--text-muted);
   line-height: 1.7;
+  opacity: 1 !important;
 }
 
 /* ==========================================================================
