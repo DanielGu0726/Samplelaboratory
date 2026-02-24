@@ -55,10 +55,11 @@
 
   // Initialize page-specific features
   function initPageFeatures(page) {
+    // Always initialize scroll reveal for all pages
+    initScrollReveal();
+
+    // Initialize page-specific features
     switch (page) {
-      case 'home':
-        initScrollReveal();
-        break;
       case 'faq':
         initFAQ();
         break;
@@ -67,9 +68,6 @@
         break;
       case 'gallery':
         initGallery();
-        break;
-      case 'about':
-        initScrollReveal();
         break;
     }
   }

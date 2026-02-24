@@ -1,6 +1,6 @@
-# Sample Dental Laboratory Website
+# LabMesh Dental Laboratory Website
 
-샘플 치과기공소 웹사이트 - 고객에게 보여주기 위한 샘플 사이트입니다.
+LabMesh 치과기공소 웹사이트 - 고객에게 보여주기 위한 샘플 사이트입니다.
 
 ## 기술 스택
 
