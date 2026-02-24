@@ -6,10 +6,10 @@
   const translations = {
     ko: {
       // Page title
-      'page.title': 'LabMesh 치과기공소',
+      'page.title': 'DentWide 치과기공소',
 
       // Navigation
-      'nav.brand': 'LabMesh Laboratory',
+      'nav.brand': 'DentWide Laboratory',
       'nav.home': '홈',
       'nav.about': '소개',
       'nav.products': '제품',
@@ -18,7 +18,7 @@
       'nav.contact': '연락처',
 
       // Home page
-      'home.hero.title': 'LabMesh 치과<br><em>기공소</em>',
+      'home.hero.title': 'DentWide 치과<br><em>기공소</em>',
       'home.hero.desc': '최고 품질의 치과 보철물 제작으로 환자의 미소를 되찾아드립니다',
       'home.hero.cta1': '제품 보기',
       'home.hero.cta2': '문의하기',
@@ -39,8 +39,8 @@
       'about.title': '회사 소개',
       'about.subtitle': '최고의 기술력과 품질로 고객의 신뢰를 얻는 치과기공소',
 
-      'about.intro.title': 'LabMesh 치과기공소',
-      'about.intro.desc': '저희 LabMesh 치과기공소는 2010년 설립 이래 최신 CAD/CAM 시스템과 디지털 장비를 활용하여 최고 품질의 치과 보철물을 제작해왔습니다. 환자의 만족과 치과의사의 신뢰를 최우선으로 하며, 지속적인 기술 개발과 품질 향상에 힘쓰고 있습니다.',
+      'about.intro.title': 'DentWide 치과기공소',
+      'about.intro.desc': '저희 DentWide 치과기공소는 2010년 설립 이래 최신 CAD/CAM 시스템과 디지털 장비를 활용하여 최고 품질의 치과 보철물을 제작해왔습니다. 환자의 만족과 치과의사의 신뢰를 최우선으로 하며, 지속적인 기술 개발과 품질 향상에 힘쓰고 있습니다.',
 
       'about.vision.title': '비전',
       'about.vision.desc': '디지털 기술과 장인정신의 완벽한 조화를 통해 치과 보철 분야의 선두주자가 되겠습니다.',
@@ -123,7 +123,7 @@
       'contact.phone.text': '02-1234-5678',
 
       'contact.email.title': '이메일',
-      'contact.email.text': 'info@labmesh.com',
+      'contact.email.text': 'info@dentwide.com',
 
       'contact.hours.title': '영업시간',
       'contact.hours.text': '평일: 09:00 - 18:00<br>주말: 휴무',
@@ -138,7 +138,7 @@
 
       // Footer
       'footer.company': '회사 정보',
-      'footer.name': 'LabMesh 치과기공소',
+      'footer.name': 'DentWide 치과기공소',
       'footer.address': '서울시 강남구 테헤란로 123',
       'footer.quicklinks': '바로가기',
       'footer.hours': '영업시간',
@@ -149,10 +149,10 @@
 
     en: {
       // Page title
-      'page.title': 'LabMesh Dental Laboratory',
+      'page.title': 'DentWide Dental Laboratory',
 
       // Navigation
-      'nav.brand': 'LabMesh Laboratory',
+      'nav.brand': 'DentWide Laboratory',
       'nav.home': 'Home',
       'nav.about': 'About',
       'nav.products': 'Products',
@@ -161,7 +161,7 @@
       'nav.contact': 'Contact',
 
       // Home page
-      'home.hero.title': 'LabMesh Dental<br><em>Laboratory</em>',
+      'home.hero.title': 'DentWide Dental<br><em>Laboratory</em>',
       'home.hero.desc': 'Restoring smiles with the highest quality dental prosthetics',
       'home.hero.cta1': 'View Products',
       'home.hero.cta2': 'Contact Us',
@@ -182,8 +182,8 @@
       'about.title': 'About Us',
       'about.subtitle': 'A dental laboratory earning customer trust with superior technology and quality',
 
-      'about.intro.title': 'LabMesh Dental Laboratory',
-      'about.intro.desc': 'Since our establishment in 2010, LabMesh Dental Laboratory has been creating the highest quality dental prosthetics using the latest CAD/CAM systems and digital equipment. We prioritize patient satisfaction and dentist trust, and are committed to continuous technological development and quality improvement.',
+      'about.intro.title': 'DentWide Dental Laboratory',
+      'about.intro.desc': 'Since our establishment in 2010, DentWide Dental Laboratory has been creating the highest quality dental prosthetics using the latest CAD/CAM systems and digital equipment. We prioritize patient satisfaction and dentist trust, and are committed to continuous technological development and quality improvement.',
 
       'about.vision.title': 'Vision',
       'about.vision.desc': 'To become a leader in dental prosthetics through the perfect harmony of digital technology and craftsmanship.',
@@ -266,7 +266,7 @@
       'contact.phone.text': '02-1234-5678',
 
       'contact.email.title': 'Email',
-      'contact.email.text': 'info@labmesh.com',
+      'contact.email.text': 'info@dentwide.com',
 
       'contact.hours.title': 'Business Hours',
       'contact.hours.text': 'Weekdays: 09:00 - 18:00<br>Weekends: Closed',
@@ -281,7 +281,7 @@
 
       // Footer
       'footer.company': 'Company Information',
-      'footer.name': 'LabMesh Dental Laboratory',
+      'footer.name': 'DentWide Dental Laboratory',
       'footer.address': '123 Teheran-ro, Gangnam-gu, Seoul',
       'footer.quicklinks': 'Quick Links',
       'footer.hours': 'Business Hours',
