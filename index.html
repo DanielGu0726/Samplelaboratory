@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="샘플 치과기공소 - 최고 품질의 치과 보철물 제작">
+  <meta name="keywords" content="치과기공소, 지르코니아, 크라운, 임플란트, 브릿지">
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="샘플 치과기공소">
+  <meta property="og:description" content="최고 품질의 치과 보철물 제작">
+  <meta property="og:site_name" content="Sample Laboratory">
+
+  <title data-i18n="page.title">샘플 치과기공소</title>
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/main.css">
+
+  <!-- Preconnect for performance -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Header -->
+  <header id="header">
+    <div class="container">
+      <div class="header-content">
+        <!-- Logo -->
+        <a href="#" class="logo">
+          <span class="logo-text" data-i18n="nav.brand">Sample Laboratory</span>
+        </a>
+
+        <!-- Desktop Navigation -->
+        <nav class="nav-desktop">
+          <a href="#" class="nav-link" data-i18n="nav.home">홈</a>
+          <a href="#about" class="nav-link" data-i18n="nav.about">소개</a>
+          <a href="#products" class="nav-link" data-i18n="nav.products">제품</a>
+          <a href="#gallery" class="nav-link" data-i18n="nav.gallery">갤러리</a>
+          <a href="#faq" class="nav-link" data-i18n="nav.faq">FAQ</a>
+          <a href="#contact" class="nav-link" data-i18n="nav.contact">연락처</a>
+        </nav>
+
+        <!-- Controls -->
+        <div class="header-controls">
+          <!-- Language Switcher -->
+          <div class="lang-switcher">
+            <button id="lang-btn" class="btn-lang" aria-label="Language">
+              <span id="lang-current">KO</span>
+            </button>
+            <div id="lang-menu" class="lang-menu">
+              <button data-lang="ko">한국어</button>
+              <button data-lang="en">English</button>
+            </div>
+          </div>
+
+          <!-- Theme Toggle -->
+          <button id="theme-btn" class="btn-theme" aria-label="Toggle theme">
+            <svg class="icon-sun" width="20" height="20" viewBox="0 0 20 20" fill="none">
+              <circle cx="10" cy="10" r="3" stroke="currentColor" stroke-width="2"/>
+              <path d="M10 2V4M10 16V18M18 10H16M4 10H2M15.657 4.343L14.243 5.757M5.757 14.243L4.343 15.657M15.657 15.657L14.243 14.243M5.757 5.757L4.343 4.343" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+            <svg class="icon-moon" width="20" height="20" viewBox="0 0 20 20" fill="none">
+              <path d="M17 10.5C16.1 14.4 12.6 17 8.5 17C4.4 17 1 13.6 1 9.5C1 5.4 3.6 1.9 7.5 1C7.1 1.9 6.9 2.9 6.9 4C6.9 7.9 10 11 13.9 11C15 11 16 10.8 17 10.5Z" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/>
+            </svg>
+          </button>
+
+          <!-- Mobile Menu Toggle -->
+          <button id="mobile-menu-btn" class="btn-mobile-menu" aria-label="Menu">
+            <span></span>
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Mobile Navigation -->
+  <div id="mobile-nav" class="mobile-nav">
+    <div class="mobile-nav-backdrop"></div>
+    <div class="mobile-nav-panel">
+      <a href="#" class="nav-link" data-i18n="nav.home">홈</a>
+      <a href="#about" class="nav-link" data-i18n="nav.about">소개</a>
+      <a href="#products" class="nav-link" data-i18n="nav.products">제품</a>
+      <a href="#gallery" class="nav-link" data-i18n="nav.gallery">갤러리</a>
+      <a href="#faq" class="nav-link" data-i18n="nav.faq">FAQ</a>
+      <a href="#contact" class="nav-link" data-i18n="nav.contact">연락처</a>
+    </div>
+  </div>
+
+  <!-- Main Content -->
+  <main id="main-content">
+    <!-- Page content will be loaded here dynamically -->
+  </main>
+
+  <!-- Footer -->
+  <footer id="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3 class="footer-title" data-i18n="footer.company">회사 정보</h3>
+          <p class="footer-text" data-i18n="footer.name">샘플 치과기공소</p>
+          <p class="footer-text" data-i18n="footer.address">서울시 강남구 테헤란로 123</p>
+          <p class="footer-text">Tel: 02-1234-5678</p>
+          <p class="footer-text">Email: info@samplelab.com</p>
+        </div>
+
+        <div class="footer-section">
+          <h3 class="footer-title" data-i18n="footer.quicklinks">바로가기</h3>
+          <div class="footer-links">
+            <a href="#about" data-i18n="nav.about">소개</a>
+            <a href="#products" data-i18n="nav.products">제품</a>
+            <a href="#gallery" data-i18n="nav.gallery">갤러리</a>
+            <a href="#contact" data-i18n="nav.contact">연락처</a>
+          </div>
+        </div>
+
+        <div class="footer-section">
+          <h3 class="footer-title" data-i18n="footer.hours">영업시간</h3>
+          <p class="footer-text" data-i18n="footer.weekday">평일: 09:00 - 18:00</p>
+          <p class="footer-text" data-i18n="footer.weekend">주말: 휴무</p>
+        </div>
+      </div>
+
+      <div class="footer-bottom">
+        <p>&copy; 2024 Sample Laboratory. <span data-i18n="footer.rights">All rights reserved.</span></p>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="js/theme.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

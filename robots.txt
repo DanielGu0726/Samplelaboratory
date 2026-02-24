@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://danielgu0726.github.io/Samplelaboratory/sitemap.xml
