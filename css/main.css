@@ -694,6 +694,11 @@ ul, ol {
   overflow: hidden;
 }
 
+.faq-item.reveal {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
 .faq-question {
   width: 100%;
   padding: 20px 24px;
