@@ -96,7 +96,7 @@
       'faq.subtitle': '고객님들이 자주 문의하시는 내용을 모았습니다',
 
       'faq.q1': '제작 기간은 얼마나 걸리나요?',
-      'faq.a1': '일반적으로 3-5일 정도 소요됩니다. 긴급한 경우 당일 제작도 가능하니 문의해주세요.',
+      'faq.a1': '일반적으로 3-5일 정도 소요됩니다.',
 
       'faq.q2': '어떤 재료를 사용하나요?',
       'faq.a2': '지르코니아, 세라믹, 금속 등 다양한 재료를 사용하며, 모두 국제 인증을 받은 고품질 재료입니다.',
@@ -239,7 +239,7 @@
       'faq.subtitle': 'Common questions from our customers',
 
       'faq.q1': 'How long does production take?',
-      'faq.a1': 'Typically 3-5 days. Same-day production is available for urgent cases. Please contact us.',
+      'faq.a1': 'Typically 3-5 days.',
 
       'faq.q2': 'What materials do you use?',
       'faq.a2': 'We use various materials including zirconia, ceramic, and metal, all internationally certified high-quality materials.',
